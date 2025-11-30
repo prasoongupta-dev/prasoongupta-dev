@@ -1,16 +1,11 @@
-## Hi there 👋
+## 🚀 About Me
+- I am a school student currently learning the basics of programming.
+- I have started with **Python** and **SQL**.
+- I enjoy practicing coding problems and understanding how programs work.
+- My goal is to become a professional software engineer in the future.
 
-<!--
-**prasoongupta-dev/prasoongupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming Languages: Python (Beginner)
+- Database: SQL (Basic Queries)
+- Tools: Git, GitHub, VS Code
+- Currently Learning: Data Structures, Web Development
